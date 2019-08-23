@@ -1,0 +1,3 @@
+/home/marek/school/pv264/pv264_hw1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/marek/school/pv264/pv264_hw1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marek/school/pv264/pv264_hw1/cmake-build-debug/CMakeFiles/slotmap_test.dir

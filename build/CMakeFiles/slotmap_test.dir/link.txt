@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -Wall -Wextra -pedantic -Werror  -rdynamic CMakeFiles/slotmap_test.dir/main.cpp.o CMakeFiles/slotmap_test.dir/test.cpp.o  -o slotmap_test 
